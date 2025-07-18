@@ -1,16 +1,37 @@
-# flutter_praktek_8
+# 📘 Food Delivery App
 
-A new Flutter project.
+Deskripsi singkat tentang aplikasi. Misalnya:
 
-## Getting Started
+> Aplikasi ini merupakan sistem untuk membantu user memanajemen kegiatan sehari-hari.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📋 Menambah Kegiatan
+- 📋 Menghapus Kegiatan
+- 📋 Menandai Kegiatan Penting
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Tampilan Setiap Halaman
+
+### 1. Home
+
+<img src="./images/01.home.png" alt="home" height="350px">
+
+### 2. Tambah Kegiatan
+
+<img src="./images/02.add-item.png" alt="add-page" height="350px">
+
+---
+
+## 💻 Cara Instalasi
+
+```bash
+git clone https://github.com/username/nama-proyek.git
+cd nama-proyek
+flutter clean
+flutter pub-get
+flutter run
+```
